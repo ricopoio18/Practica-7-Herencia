@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Clases","l":"DispositivoElectronico"},{"p":"org.example","l":"Main"},{"p":"Clases","l":"Sensor"},{"p":"Clases","l":"SensorAceleracion"},{"p":"Clases","l":"SensorPresion"},{"p":"Clases","l":"SensorTemperatura"},{"p":"Clases","l":"SistemaMonitoreo"}];updateSearchResults();
