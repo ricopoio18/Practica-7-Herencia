@@ -13,7 +13,7 @@ public abstract class Sensor extends DispositivoElectronico{
     public void calibrar(){
         if (!estaCalibrado){
             estaCalibrado = true;
-            System.out.println("Calibrado");
+            System.out.println("Sensor calibrado");
         }else {
             System.out.println("El sensor ya estaba calibrado.");
         }
