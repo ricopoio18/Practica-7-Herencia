@@ -17,6 +17,8 @@ public class DispositivoElectronico {
         if (!encendido){
             encendido = true;
             System.out.println("encendido");
+        }else {
+            System.out.println("El dispositivo ya está encendido.");
         }
     }
 
@@ -24,6 +26,8 @@ public class DispositivoElectronico {
         if (encendido){
             encendido = false;
             System.out.println("apagado");
+        } else {
+            System.out.println("El dispositivo ya está apagado.");
         }
     }
 
