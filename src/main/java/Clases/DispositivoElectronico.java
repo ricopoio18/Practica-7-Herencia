@@ -16,7 +16,7 @@ public class DispositivoElectronico {
     public void encender() {
         if (!encendido){
             encendido = true;
-            System.out.println("encendido");
+            System.out.println("Dispositivo encendido");
         }else {
             System.out.println("El dispositivo ya está encendido.");
         }
