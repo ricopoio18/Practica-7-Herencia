@@ -1,6 +1,15 @@
 package Clases;
 
 import java.util.ArrayList;
+/**
+ * Clase principal que simula un sistema de monitoreo de sensores.
+ *
+ * En esta clase se crean diferentes tipos de sensores (temperatura,
+ * presión y aceleración) y se almacenan en una colección.
+ *
+ * Se recorre la lista de sensores y ejecuta métodos de la clase base
+ * y en la clase abstracta.
+ **/
 public class SistemaMonitoreo {
 
     public static void main(String[] args) {
